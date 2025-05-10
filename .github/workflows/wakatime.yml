@@ -8,13 +8,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  UpdateReadme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - name: WakaReadme
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Build and update WakaTime stats
+        run: |
+          git config --global user.name "ixand"
+          git config --global user.email "ixand@users.noreply.github.com"
+          
+          # Отримання WakaTime статистики (приклад)
+          curl -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" \
+               https://wakatime.com/api/v1/users/current/stats/last_7_days > waka_stats.json
+
+          # Оновлення README.md (приклад генерації)
+          echo "## WakaTime Summary" > README.md
+          cat waka_stats.json >> README.md
+
+          git add README.md
+          git commit -m "📊 update waka-readme stats"
+          git push
