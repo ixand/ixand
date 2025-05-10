@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=dalfimart&icon=5&color=3)](https://visitcount.itsvg.in) 
-[![wakatime](https://wakatime.com/badge/user/77ac138e-44ed-491a-94ce-abc737d53369.svg)](https://wakatime.com/@77ac138e-44ed-491a-94ce-abc737d53369)
+[![wakatime](https://wakatime.com/badge/user/cee4c1d0-b60e-4ac4-9794-b9087bd65b12.svg)](https://wakatime.com/@cee4c1d0-b60e-4ac4-9794-b9087bd65b12)
 
 ### 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixand&show_icons=true&theme=github_dark)
