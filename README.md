@@ -3,3 +3,7 @@
 
 ### 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixand&layout=compact&theme=github_dark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
