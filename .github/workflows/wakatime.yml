@@ -18,3 +18,4 @@ jobs:
           COMMITTER_EMAIL: ixand@users.noreply.github.com
           AUTHOR_NAME: ixand
           AUTHOR_EMAIL: ixand@users.noreply.github.com
+          TARGET_BRANCH: main
