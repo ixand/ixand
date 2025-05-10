@@ -14,5 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          
+          COMMITTER_NAME: ixand
+          COMMITTER_EMAIL: ixand@users.noreply.github.com
+          AUTHOR_NAME: ixand
+          AUTHOR_EMAIL: ixand@users.noreply.github.com
