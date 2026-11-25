@@ -19,10 +19,20 @@ framework and tooling around it, and own quality from requirements to monitoring
 
 I also lead a frontend development team, with hands-on work in React.
 
-## My own project
+## Master's thesis project: Release Health
 
-**Release Health Dashboard**: one dashboard for several products over Playwright autotest results from
-GitLab CI, built with Svelte and TypeScript. The repository is private.
+**A web service for centralised management of automated testing and quality of web systems.**
+
+It brings the whole job of a test automation engineer into one place and makes testing transparent and
+manageable for the entire team:
+
+- breaks the frontend and backend down into components and shows how far each one is covered by autotests;
+- collects quality metrics across products from Playwright runs in GitLab CI;
+- lets you create, edit and run tests, and watch the runs live;
+- prepares test data for them and pushes the changes to the repository;
+- shows every role what it needs: charts for a CEO, the right tests to run for a developer.
+
+Built with Svelte and TypeScript. The repository is private while the thesis is in progress.
 
 ## What I work with
 
