@@ -2,8 +2,6 @@
 
 **QA Automation Engineer (AQA)** · Kyiv, Ukraine · open to work
 
-![Profile views](https://komarev.com/ghpvc/?username=ixand&label=Profile%20views&color=0e75b6&style=flat)
-
 QA Automation Engineer with 2+ years in manual and automated testing of web and mobile applications.
 I am the sole QA owner across several international projects: I built a Playwright + TypeScript
 framework from scratch and I own the whole QA lifecycle, from requirements to monitoring in production.
