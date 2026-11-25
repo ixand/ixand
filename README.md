@@ -1,8 +1,9 @@
 # Dima Hlukhov
 
-**QA Automation Engineer (AQA)** · Kyiv, Ukraine · open to work
+**SDET · QA Automation Engineer (AQE)** · Kyiv, Ukraine · open to work
 
-QA Automation Engineer with 2+ years in manual and automated testing of web and mobile applications.
+Software Development Engineer in Test with 2+ years in manual and automated testing of web and mobile
+applications.
 I am the sole QA owner across several international projects: I built a Playwright + TypeScript
 framework from scratch and I own the whole QA lifecycle, from requirements to monitoring in production.
 
