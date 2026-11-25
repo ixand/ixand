@@ -19,6 +19,11 @@ framework and tooling around it, and own quality from requirements to monitoring
 
 I also lead a frontend development team, with hands-on work in React.
 
+## My own project
+
+**Release Health Dashboard**: one dashboard for several products over Playwright autotest results from
+GitLab CI, built with Svelte and TypeScript. The repository is private.
+
 ## What I work with
 
 | Area | Tools |
