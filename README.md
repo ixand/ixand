@@ -53,29 +53,7 @@ framework from scratch and I own the whole QA lifecycle, from requirements to mo
   [Agile and Design Thinking](https://www.coursera.org/account/accomplishments/verify/WPTT54DPYMRM) (Coursera).
 - Languages: English, Upper-Intermediate (B1+/B2); Ukrainian, native.
 
-## Who visits my repositories
-
-<!-- traffic:start -->
-| Repository | Views, 14 days | Daily visitors, 14 days | Clones, 14 days | Views since tracking | Clones since tracking |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| [upwind-qa-automation](https://github.com/ixand/upwind-qa-automation) | 19 | 3 | 38 | 19 | 38 |
-| [imgcoder](https://github.com/ixand/imgcoder) | 1 | 1 | 2 | 1 | 2 |
-| [ping-bot](https://github.com/ixand/ping-bot) | 0 | 0 | 7 | 0 | 7 |
-| [CRUD-tests](https://github.com/ixand/CRUD-tests) | 0 | 0 | 3 | 0 | 3 |
-| [test-task](https://github.com/ixand/test-task) | 0 | 0 | 3 | 0 | 3 |
-| [mobilekeyboard](https://github.com/ixand/mobilekeyboard) | 0 | 0 | 3 | 0 | 3 |
-| [the-swine-cycle-of-pigs](https://github.com/ixand/the-swine-cycle-of-pigs) | 0 | 0 | 2 | 0 | 2 |
-| [duikt](https://github.com/ixand/duikt) | 0 | 0 | 2 | 0 | 2 |
-| **Total, all 11 repositories** | **20** | **4** | **64** | **20** | **64** |
-
-<sub>Source: GitHub traffic API. "Daily visitors" adds up each day's unique visitors, so one person on two days counts twice. Tracking since 2026-11-11; updated 2026-11-25.</sub>
-<!-- traffic:end -->
-
 ## Contact
 
 - Email: [hlukhovdima@gmail.com](mailto:hlukhovdima@gmail.com)
 - LinkedIn: [dima-hlukhov](https://www.linkedin.com/in/dima-hlukhov-133508305/)
-
-<sub>The traffic table is rebuilt every day by a
-[workflow in this repository](.github/workflows/update-profile.yml) from the GitHub API. The profile views
-badge is counted by komarev.com.</sub>
