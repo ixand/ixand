@@ -30,8 +30,8 @@ Telecommunications of Ukraine.
 ## GitHub in numbers
 
 <!-- numbers:start -->
-- **13** public repositories of my own, **1** star, **11** followers
-- Code by size across them: TypeScript 34% · Dart 30% · Go 11% · Python 8% · Java 7% · JavaScript 3%
+- **12** public repositories of my own, **1** star, **11** followers
+- Code by size across them: TypeScript 35% · Dart 31% · Go 11% · Python 8% · Java 7% · Rust 3%
 - On GitHub since 2024
 <!-- numbers:end -->
 

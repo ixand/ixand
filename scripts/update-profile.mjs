@@ -36,7 +36,8 @@ function replaceBlock(text, name, content) {
 const user = (await api(`/users/${OWNER}`)).body;
 if (!user) throw new Error(`cannot read the profile of ${OWNER}`);
 const repos = ((await api(`/users/${OWNER}/repos?per_page=100&type=owner&sort=pushed`)).body ?? []).filter(
-  (repo) => !repo.fork && !repo.private && !repo.archived,
+  // The profile repository itself is not a project.
+  (repo) => !repo.fork && !repo.private && !repo.archived && repo.name !== OWNER,
 );
 
 // --- traffic -------------------------------------------------------------------------------------------------
