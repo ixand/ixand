@@ -10,7 +10,7 @@ framework from scratch and I own the whole QA lifecycle, from requirements to mo
 
 ## Experience
 
-**QA Automation Engineer** · Oct 2025 – present · remote, several international projects
+**QA Automation Engineer** · 1+ year · remote, several international projects
 
 - Built the test automation framework from scratch with Playwright + TypeScript: 2460+ automated tests in
   6 suites (API, E2E, Smoke, Integration, Visual, Performance), a full parallel run under 4 minutes,
@@ -25,7 +25,7 @@ framework from scratch and I own the whole QA lifecycle, from requirements to mo
 - Integrated the tests into CI/CD (GitHub Actions, GitLab CI); testing in Docker and Kubernetes.
 - Lead a frontend development team, with hands-on work in React.
 
-**QA Engineer** · 2024 – 2025 · project-based
+**QA Engineer** · 1 year · project-based
 
 - Manual functional, regression and UI testing of web and mobile applications for international clients.
 - Test data setup and validation in relational and non-relational databases; Git and Azure DevOps.
