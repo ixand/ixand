@@ -29,7 +29,9 @@ function replaceBlock(text, name, content) {
   const end = `<!-- ${name}:end -->`;
   const from = text.indexOf(start);
   const to = text.indexOf(end);
-  if (from === -1 || to === -1 || to < from) throw new Error(`README has no ${name} block`);
+  // A block the README no longer has is simply not rendered.
+  if (from === -1 && to === -1) return text;
+  if (from === -1 || to === -1 || to < from) throw new Error(`README has a broken ${name} block`);
   return `${text.slice(0, from + start.length)}\n${content}\n${text.slice(to)}`;
 }
 

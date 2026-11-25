@@ -14,13 +14,12 @@ token belongs to this repository alone. So the workflow needs a personal token:
    secret, name `TRAFFIC_TOKEN`.
 5. Actions → **update profile** → Run workflow.
 
-Without the secret the workflow still runs: it updates "GitHub in numbers" and leaves the traffic
-block as it is.
+Without the secret the workflow still runs and leaves the traffic block as it is.
 
 ## How it works
 
-- `scripts/update-profile.mjs` reads the profile, the public non-fork repositories, their languages and
-  their traffic, and rewrites the two marked blocks in `README.md`.
+- `scripts/update-profile.mjs` reads the profile, the public non-fork repositories, their traffic, and rewrites the marked
+  blocks that `README.md` contains.
 - GitHub keeps traffic for 14 days only, so each run merges the days it sees into `data/traffic.json`.
   The "since tracking" columns are sums over that file.
 - The profile views badge is an image served by komarev.com, which counts how often it is loaded.

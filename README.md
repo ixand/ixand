@@ -53,25 +53,6 @@ framework from scratch and I own the whole QA lifecycle, from requirements to mo
   [Agile and Design Thinking](https://www.coursera.org/account/accomplishments/verify/WPTT54DPYMRM) (Coursera).
 - Languages: English, Upper-Intermediate (B1+/B2); Ukrainian, native.
 
-## Selected projects
-
-| Project | What it shows |
-| --- | --- |
-| [allright-test](https://github.com/ixand/allright-test) | Playwright + TypeScript: UI tests on three browsers, API tests with guaranteed cleanup, known bugs parked on bug reports, CI with reports, and a pipeline that turns a text test case into a runnable test |
-| [upwind-qa-automation](https://github.com/ixand/upwind-qa-automation) | Selenide UI tests and REST Assured API tests on Java 17 with JUnit 5, Docker and Allure |
-| [CRUD-tests](https://github.com/ixand/CRUD-tests) | CRUD API checks with Playwright and TypeScript |
-| [QuickURL](https://github.com/ixand/QuickURL) | A minimal REST API in Rust (axum, SQLite, token generation) |
-| [imgcoder](https://github.com/ixand/imgcoder) | A Go CLI that encodes images to base64 and back |
-| [toyshop](https://github.com/ixand/toyshop) | A Flutter mobile app for browsing, rating and buying toys |
-
-## GitHub in numbers
-
-<!-- numbers:start -->
-- **12** public repositories of my own, **1** star, **11** followers
-- Code by size across them: TypeScript 35% · Dart 31% · Go 11% · Python 8% · Java 7% · Rust 3%
-- On GitHub since 2024
-<!-- numbers:end -->
-
 ## Who visits my repositories
 
 <!-- traffic:start -->
@@ -95,6 +76,6 @@ framework from scratch and I own the whole QA lifecycle, from requirements to mo
 - Email: [hlukhovdima@gmail.com](mailto:hlukhovdima@gmail.com)
 - LinkedIn: [dima-hlukhov](https://www.linkedin.com/in/dima-hlukhov-133508305/)
 
-<sub>"GitHub in numbers" and the traffic table are rebuilt every day by a
+<sub>The traffic table is rebuilt every day by a
 [workflow in this repository](.github/workflows/update-profile.yml) from the GitHub API. The profile views
 badge is counted by komarev.com.</sub>
